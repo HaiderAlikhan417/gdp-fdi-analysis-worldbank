@@ -26,7 +26,7 @@ To demonstrate skills in data collection, cleaning, transformation, and visualiz
 ## 📅 Last Updated
 
 - July 2025  
-- Created by: [Your Full Name] (optional)
+- Created by: Haider Ali Khan 
 
 ## 🎓 Academic Context
 
